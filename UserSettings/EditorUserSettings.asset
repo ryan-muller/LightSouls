@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467e0c1d1562332b5e0217140c2f3e680b3f3b2c1036ecf4746aadc43ee8f53b3c283c10fc7321260032e2060c18b95e44465129fc0314ef1c12088a4d8b4886525cff180ec9c80991cfdad5dfa5eceaf5dfdbcbeddefbf3e5b8d0e9a4f6baa4f98099acfbbfaa8cd2cac8deae
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146467e0c1d1562332b5e0217140c2f3e680b3f3b2c1036ecf4746aadc43ee8f53b3c283c10fc7321260032e2060c18b95e44465129fc0314ef1c12088a4d8b4b86525cff1115dcc95de1e6c7c5dbe498c8e8d6cacdaffef8f5fcb7c1f9ace9aee8ccc5b8bcf1bfefe1c8cad5d8b8c8c0c3db879fcad0deaedfd793ead580d8dcc9cdd5d099b9
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 224247031146467e0c1d1562332b5e0217140c2f3e680b3f3b2c1036ecf4746aadc43ee8f53b3c283c10fc7321260032e2060c18b95e44465129fc0314ef1c12088a4d8b4b9c51518b351dcac918c3f09afad5eedceef598fdd3a9fff6b0cbe0f4fcb5f7afe8cfc3afa1fbffbaccced0d8
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146467e0c1d1562332b5e0217140c2f3e680b3f3b2c1036ecf4746aadc43ee8f53b3c283c10fc7321260032e2060c18b95a44465127f31e04eb5f425f9756885aeb0a0fdf16118ee413c1f6c196f5e9cce2e8d6cd9083e7e7e4e1f5b5d8abebbfbcbce1a9bbf7bea1d187e1d9cbbad4c0c389f4b9d7dfd6f0c6dcdacdcf
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146467e0c1d1562332b5e0217140c2f3e680b3f3b2c1036ecf4746aadc43ee8f53b3c283c10fc73303b0c2ffe0b1d0ee5443e03181cf94e21fa02001ecb57f112c10d188b2919dcde12dfa3e1d3d9fad4eaf3dd90caaefbe0e9
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646700818052c500a581c1304112b3f670b35212c1873d5e1262aebe824a9c63436313816e6330a2d4e12f7060c0eb63c0b190307f21c51b2503714c8178529cb1a12ce5709c0c409c8
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 2242470311464672001e033004265b3105041d3e3f670d353b201373cbe7383df1ee37faa8173a303c07af0b052c1336fd18492af802070a0507f20002b03d161dc01d852dc90d0ec2160e8e805df5e6d8d994d9dbeee9dd90caaefbe0e9
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 2242470311464672001e033004265b3105041d3e3f6703313e305d10eae12639e1f333fba717302a3c0fea32107e5370d1020819f7081e0e031db22b09fe1d031dc00b8a4f86525cec1811cbdd11d0fa9a839abf96a6a7fcdfcca8bdd0f1fdf0b5d4bdfaa7b8f0c5ea9cfdb4a1c789d1cfc3a3dd
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 2242470311464672001e033004265b3105041d3e3f6703313e305d10eae12639e1f333fba717302a3c0fea32107e5370d1020819f7081e0e031db22b09fe1d031dc00b8a4f86525cec1811cbdd11d0fa9a839abc96a6a7ebd2d6a4f7bbc3e2f1f1f4e5deb2a9f1d0a6aabe82acc7c9c18fdfb9cdd8df
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 224247031146466f05071e2650135a020518166a182d2b2021280936acf53a31f6fe
+      flags: 0
+    UnityEditor.ShaderGraph.Blackboard:
+      value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd2e2d293c4ead313b08042de6030a0afa240c0d020be94c4ba75e435d8715fa32c70d15d11612dacc11fee5d3c5d1fe9ab1bf968e93e2ffcbc3e7e2f0b3ffe0e8b0be9af8ffaeffff8e85dd8390e3949c8899daa7
+      flags: 0
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649500d1002ee0b5dbd1d2c27c00ad113cb1e10e41f1addc80993b98d9884a69ae6d8f0d1cda9e8fbfefaf9f9dea3fdb9ade882f0f7b0e1e380cafbf2c3adc18e9cd285a2908b82ec869c8395949c9483d68a8e97ddbd90bf
+      flags: 0
+    UnityEditor.ShaderGraph.InspectorWindow:
+      value: 18135939215a0a5004000b0e15254b524c1119263f2d6a722016393ce1eb3d36e5d339f9a5602b2e2c07a37e0901373ae01e0008f707250d171df81a53a5485d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd80908fecb0f9cfddf1eff4e7a1b1eae482f0fcaee1e1928b86d888ed969b938797a7cf
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
